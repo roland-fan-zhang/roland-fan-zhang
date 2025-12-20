@@ -1,3 +1,5 @@
 ## [my website](https://roland-fan-zhang.github.io/)
 
-![test 2026](Test2026.pdf)
+![memoire](Test2026.pdf)
+
+![cv](Test2026.pdf)
