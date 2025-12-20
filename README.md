@@ -2,4 +2,4 @@
 
 ![memoire](Test2026.pdf)
 
-![cv](Test2026.pdf)
+![cv](roland-cv-fr-2026-2027.pdf)
